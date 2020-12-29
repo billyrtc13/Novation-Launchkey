@@ -1,0 +1,49 @@
+'Transport and Tempo
+
+'Play
+0,-1,10,0,49,16
+
+'Stop
+16,-1,11,0,35,18
+
+'Record
+1,-1,12,0,3,1
+
+'Metronome on off
+17,-1,110,0,50,17
+
+'Tempo up 1 BPM
+2,-1,105,10,17,50
+
+'Tempo up 5 BPM
+3,-1,105,50,1,3
+
+'Nudge up
+4,-1,108,0,50,17
+
+'Tap tempo
+5,-1,106,0,16,49
+
+'Undo udown
+6,-1,22,-1,1,3
+
+'Previous channel
+7,-1,102,-1,50,17
+
+'Tempo down 1 BPM
+18,-1,105,-10,17,50
+
+'Tempo down 5 BPM
+19,-1,105,-50,1,3
+
+'Nudge down
+20,-1,107,0,50,17
+
+'Wait for input
+21,-1,111,1,35,18
+
+'Undo up
+22,-1,22,1,1,3
+
+'Next channel
+23,-1,102,1,50,17
